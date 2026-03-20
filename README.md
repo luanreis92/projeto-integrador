@@ -1,11 +1,11 @@
 #Projeto Integrador - Grupo 10
 
 #Integrantes
-- Luanda da Silva
-- Marcio dos Santos
-- Lucas Ferreira Vaz Almeida
 - Gabriel Oliveira Silva
 - Luan Vinicius Soares dos Reis
+- Luanda da Silva
+- Lucas Ferreira Vaz Almeida
+- Marcio dos Santos
 
 #Descrição do contexto
 
