@@ -1,18 +1,18 @@
-#Projeto Integrador - Grupo 10
+# Projeto Integrador - Grupo 10
 
-#Integrantes
+## Integrantes
 - Gabriel Oliveira Silva
 - Luan Vinicius Soares dos Reis
 - Luanda da Silva
 - Lucas Ferreira Vaz Almeida
 - Marcio dos Santos
 
-#Descrição do contexto
+## Descrição do contexto
 
-#Objetivo
+## Objetivo
 
-#Planejamento
+## Planejamento
 
-#Cronograma
+## Cronograma
 
-#Dashboard
+## Dashboard
