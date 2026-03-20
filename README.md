@@ -7,7 +7,7 @@
 - Gabriel Oliveira Silva
 - Luan Vinicius Soares dos Reis
 
-#Descrição do contexto e origem
+#Descrição do contexto
 
 #Objetivo
 
