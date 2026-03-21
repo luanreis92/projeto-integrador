@@ -32,7 +32,7 @@ Analisar o panorama histórico de violações de dados para identificar quais se
 - Entrega da primeira parte do projeto - 22/março
 
 ## Tratamentos
-1. Tratamento de nulos nas colunas "Records", "Method" e "Sources". Como são apenas 2 linhas, optamos pela exclusão desses dados.
+1. Tratamento de nulos nas colunas "Records", "Method" e "Sources". Como são apenas 2 linhas, serão excluídos.
 2. Verificar o quantitativos de dados duplicados e também excluir.
 3. Excluir as linhas em "Records" que possuem strings e não números inteiros. Exemplo: 19 years of data
 4. Excluir as colunas "Sources" e "Entity" que não são necessárias para essa análise
