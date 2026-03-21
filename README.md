@@ -14,9 +14,22 @@
 
 ## Objetivo
   Apresentar dashboards para monitorar incidentes de segurança em redes, destacando distribuição de ataques, tentativas repetidas, conexões recusadas e variações no tráfego, apoiando decisões rápidas e mitigação eficiente de riscos.
+
 ## Planejamento
+- Criar repositório no GitHub - Luan
+- Escolher base de dados - todos os integrantes
+- Definir o objetivo - todos os integrantes
+- Dividir as tarefas do grupo e criar o cronograma - Luanda
+- Escolher os tratamentos - Luanda
+- Planejamento do dashboard - Luan
 
 ## Cronograma
+- Escolher a base de dados e objetivos - 03/março
+- Dividir as tarefas do grupo - 06/março
+- Escolher os tratamentos - 10/março
+- Planejamento do dashboard - 16/março
+- Criar repositório no Github - 19/março
+- Entrega da primeira parte do projeto - 22/março
 
 ## Dashboard Incidentes de Segurança
 - Gráfico Pizza - Abordar os incidentes mais usados.
