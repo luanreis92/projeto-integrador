@@ -1,6 +1,6 @@
 # Projeto Integrador - Grupo 10
 
-# Tema: Segurança Cibernética
+## Tema: Segurança Cibernética
 
 ## Integrantes
 - Gabriel Oliveira Silva
