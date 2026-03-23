@@ -7,10 +7,10 @@
 - Luan Vinicius Soares dos Reis
 - Luanda da Silva
 - Lucas Ferreira Vaz Almeida
-- Marcio dos Santos
+- Márcio dos Santos
 
 ## Descrição do contexto
-A base de dados que será trabalhada é a base Data Breaches disponível no Kagle. A base trás dados de diversas fontes diferentes (reportagens de imprensa, comunicados de imprensa do governo e artigos de notícias tradicionais) detalhando vazamento de dados e inclui os eventos envolvendo o roubo ou comprometimento de 30.000 ou mais registros. Tem 7 colunas, sendo: entidade, ano, número de registros envolvidos na violação, tipo de organização, metódo e fonte e tem um total de 352 linhas.
+A base de dados que será trabalhada é a base Data Breaches disponível no Kagle. A base traz dados de diversas fontes (reportagens, comunicados de imprensa governamental e artigos de notícias tradicionais) detalhando vazamento de dados e inclui os eventos envolvendo o roubo ou comprometimento de aproximadamente 30.000 regiatros. Tem 7 coluna divididas em: entidade, ano, número de registros envolvidos na violação, tipo de organização, metódo e fonte. Contem um total de 352 linhas.
 
 ## Objetivo
 Analisar o panorama histórico de violações de dados para identificar quais setores da economia são mais vulneráveis e quais métodos de ataque apresentam maior frequência e severidade ao longo dos anos.
@@ -33,7 +33,7 @@ Analisar o panorama histórico de violações de dados para identificar quais se
 
 ## Tratamentos
 1. Tratamento de nulos nas colunas "Records", "Method" e "Sources". Como são apenas 2 linhas, serão excluídos.
-2. Verificar o quantitativos de dados duplicados e também excluir.
+2. Quantificar dados duplicados, excluir cópias desnecessárias.
 3. Excluir as linhas em "Records" que possuem strings e não números inteiros. Exemplo: 19 years of data
 4. Excluir as colunas "Sources" e "Entity" que não são necessárias para essa análise
 5. Padronizar as colunas "Organization type" e "Method" para classificações mais gerais e melhorar a visualização dos gráficos
