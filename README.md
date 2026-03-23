@@ -24,11 +24,11 @@ Analisar o panorama histórico de violações de dados para identificar quais se
 - Planejamento do dashboard - Luan
 
 ## Cronograma
-- Escolher a base de dados e objetivos - 03/março
-- Dividir as tarefas do grupo - 06/março
-- Escolher os tratamentos - 10/março
-- Planejamento do dashboard - 16/março
-- Criar repositório no Github - 19/março
+- Escolha da base de dados e objetivos - 03/março
+- Dividisão das tarefas do grupo - 06/março
+- Escolha dos tratamentos - 10/março
+- Planejamento da dashboard - 16/março
+- Criação do repositório no Github - 19/março
 - Entrega da primeira parte do projeto - 22/março
 
 ## Tratamentos
