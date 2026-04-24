@@ -10,7 +10,7 @@
 - Márcio dos Santos
 
 ## Descrição do contexto
-A base de dados que será trabalhada é a base Data Breaches disponível no Kagle. A base traz dados de diversas fontes (reportagens, comunicados de imprensa governamental e artigos de notícias tradicionais) detalhando vazamento de dados e inclui os eventos envolvendo o roubo ou comprometimento de aproximadamente 30.000 regiatros. Tem 7 coluna divididas em: entidade, ano, número de registros envolvidos na violação, tipo de organização, metódo e fonte. Contem um total de 352 linhas.
+A base de dados que será trabalhada é a base Data Breaches disponível no Kagle. A base traz dados de diversas fontes (reportagens, comunicados de imprensa governamental e artigos de notícias tradicionais) detalhando vazamento de dados e inclui os eventos envolvendo o roubo ou comprometimento de aproximadamente 30.000 registros. Tem 7 coluna divididas em: entidade, ano, número de registros envolvidos na violação, tipo de organização, metódo e fonte. Contem um total de 352 linhas.
 
 ## Objetivo
 Analisar o panorama histórico de violações de dados para identificar quais setores da economia são mais vulneráveis e quais métodos de ataque apresentam maior frequência e severidade ao longo dos anos.
