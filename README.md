@@ -20,7 +20,7 @@ Analisar o panorama histórico de violações de dados para identificar quais se
 - Escolher base de dados - todos os integrantes
 - Definir o objetivo - todos os integrantes
 - Dividir as tarefas do grupo e criar o cronograma - Luanda
-- Escolher os tratamentos - Luanda
+- Tratamento e carregamento de dados base para dashboard- Marcio
 - Planejamento do dashboard - Luan
 
 ## Cronograma
