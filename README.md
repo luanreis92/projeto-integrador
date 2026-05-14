@@ -31,6 +31,21 @@ Analisar o panorama histórico de violações de dados para identificar quais se
 - Criação do repositório no Github - 19/março
 - Entrega da primeira parte do projeto - 22/março
 
+## Status do Projeto
+
+- [x] Estruturação inicial do projeto
+- [x] Configuração do Poetry
+- [x] Criação do ambiente virtual
+- [x] Organização da arquitetura ETL
+- [x] Configuração do pandas
+
+### Próximos passos
+
+- [ ] Finalizar tratamento dos dados
+- [ ] Validar dados tratados
+- [ ] Integrar pipeline ao Streamlit
+- [ ] Criar visualizações
+
 ## Tratamentos
 1. Tratamento de nulos nas colunas "Records", "Method" e "Sources". Como são apenas 2 linhas, serão excluídos.
 2. Quantificar dados duplicados, excluir cópias desnecessárias.
