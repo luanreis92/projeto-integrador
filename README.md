@@ -56,6 +56,9 @@ Analisar o panorama histórico de violações de dados para identificar quais se
 4. Excluir as linhas em "Records" que possuem strings e não números inteiros. Exemplo: 19 years of data✅
 5. Padronizar as colunas "Organization type" e "Method" para classificações mais gerais e melhorar a visualização dos gráficos✅
 
+### Comando para rodar o programa no terminal:
+poetry run python -m src.projeto_integrador.main
+
 ### Próximos passos
 
 - [x] Finalizar tratamento dos dados
