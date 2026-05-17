@@ -20,7 +20,7 @@ Analisar o panorama histórico de violações de dados para identificar quais se
 - Escolher base de dados - todos os integrantes
 - Definir o objetivo - todos os integrantes
 - Dividir as tarefas do grupo e criar o cronograma - Luanda
-- Escolher os tratamentos - Luanda
+- Tratamento e carregamento de dados base para dashboard- Marcio
 - Planejamento do dashboard - Luan
 
 ## Cronograma
@@ -31,12 +31,40 @@ Analisar o panorama histórico de violações de dados para identificar quais se
 - Criação do repositório no Github - 19/março
 - Entrega da primeira parte do projeto - 22/março
 
+## Status do Projeto
+
+- [x] Estruturação inicial do projeto
+- [x] Configuração do Poetry
+- [x] Criação do ambiente virtual
+- [x] Organização da arquitetura ETL
+- [x] Configuração do pandas
+
 ## Tratamentos
-1. Tratamento de nulos nas colunas "Records", "Method" e "Sources". Como são apenas 2 linhas, serão excluídos.
-2. Quantificar dados duplicados, excluir cópias desnecessárias.
-3. Excluir as linhas em "Records" que possuem strings e não números inteiros. Exemplo: 19 years of data
-4. Excluir as colunas "Sources" e "Entity" que não são necessárias para essa análise
-5. Padronizar as colunas "Organization type" e "Method" para classificações mais gerais e melhorar a visualização dos gráficos
+
+(Cronograma para efetuar os tratamentos)
+1. Ler dataset ✅
+2. Inspecionar estrutura ✅
+3. Entender schema✅
+4. Regra de negocio na pasta src\projeto_integrador\service. - "Armazenamento do arquivo csv em: data\staging\Tratamento_BD_breachs.py"✅
+5. Validar✅
+6. Viabilizar base tratada na pasta: data\curated\base_tratada.csv✅
+
+(Tratamentos finais exigidos)
+1. Excluir as colunas "Sources" e "Entity" que não são necessárias para essa análise✅
+2. Quantificar dados duplicados, se houver; excluir cópias desnecessárias.✅
+3. Excluir nulos das colunas "Records" e "Method" Total de 3 registros forão excluídos.✅ 
+4. Excluir as linhas em "Records" que possuem strings e não números inteiros. Exemplo: 19 years of data✅
+5. Padronizar as colunas "Organization type" e "Method" para classificações mais gerais e melhorar a visualização dos gráficos✅
+
+### Comando para rodar o programa no terminal:
+poetry run python -m src.projeto_integrador.main
+
+### Próximos passos
+
+- [x] Finalizar tratamento dos dados
+- [x] Validar dados tratados
+- [ ] Integrar pipeline ao Streamlit
+- [ ] Criar visualizações
 
 ## Dashboard
 - Média: média de quantidade vazada por evento

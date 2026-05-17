@@ -1,0 +1,305 @@
+Unnamed: 0,Year,Records,Organization type,Method
+0,2016,2200000.0,healthcare,cyber attack
+1,2020,14870304.0,social media,cyber attack
+2,2020,175350.0,healthcare,security failure
+3,2013,152000000.0,technology,cyber attack
+4,2019,7500000.0,technology,security failure
+5,2017,4000000.0,healthcare,lost / stolen media
+6,2018,75000.0,advertising,cyber attack
+7,2013,344579.0,healthcare,lost / stolen media
+8,2019,320000000.0,telecommunications,security failure
+9,2018,20000.0,transport,cyber attack
+11,2005,200000.0,financial,lost / stolen media
+12,2021,300000.0,technology,security failure
+13,2020,46000000.0,gaming,cyber attack
+14,2021,156000.0,healthcare,cyber attack
+15,2015,80000000.0,healthcare,cyber attack
+16,2004,92000000.0,technology,"inside job, hacked"
+17,2006,20000000.0,technology,accidentally published
+18,2014,2400000.0,technology,cyber attack
+19,2021,12367232.0,"tech, retail",accidentally published
+20,2021,275000.0,technology,cyber attack
+21,2021,91000.0,healthcare,security failure
+22,2015,32000000.0,technology,cyber attack
+23,2008,113000.0,telecoms,lost / stolen computer
+24,2010,114000.0,telecoms,cyber attack
+26,2008,18000000.0,technology,cyber attack
+29,2005,125000.0,financial,security failure
+30,2009,1220000.0,healthcare,lost / stolen computer
+31,2015,250000.0,retail,cyber attack
+32,2008,12500000.0,financial,lost / stolen media
+33,2005,1200000.0,financial,lost / stolen media
+35,2017,1900000.0,telecoms,security failure
+36,2018,100000.0,telecoms,cyber attack
+37,2014,35040000.0,educational services,cyber attack
+38,2010,2300000.0,technology,cyber attack
+39,2011,200000.0,gaming,cyber attack
+42,2018,7633234.0,gaming,cyber attack
+43,2012,14000000.0,gaming,cyber attack
+44,2009,1023209.0,healthcare,lost / stolen media
+45,2018,90000.0,banking,security failure
+46,2018,500000.0,transport,cyber attack
+49,2012,800000.0,government,lost / stolen media
+50,2019,140000000.0,technology,cyber attack
+51,2020,350000.0,game,cyber attack
+52,2019,106000000.0,financial,unsecured S3 bucket
+53,2005,40000000.0,financial,cyber attack
+54,2018,9400000.0,transport,cyber attack
+55,2015,1100000.0,healthcare,cyber attack
+56,2016,60000.0,financial,cyber attack
+57,2013,110000.0,energy,cyber attack
+58,2009,5000000.0,financial,cyber attack
+59,2020,56000000.0,background check,unknown
+60,2011,6000000.0,technology,cyber attack
+61,2011,10000000.0,technology,cyber attack
+62,2005,3900000.0,financial,lost / stolen media
+63,2011,360083.0,financial,cyber attack
+64,2013,150000.0,financial,security failure
+65,2007,160000.0,healthcare,lost / stolen media
+67,2010,105470.0,healthcare,lost / stolen computer
+68,2014,4500000.0,healthcare,cyber attack
+69,2016,55000000.0,government,cyber attack
+70,2007,1000000.0,financial,inside job
+71,2006,2600000.0,financial,inside job
+72,2011,2500000.0,financial,inside job
+73,2018,75000.0,healthcare,cyber attack
+74,2016,40000.0,telecoms,cyber attack
+75,2013,100000.0,healthcare,lost / stolen computer
+77,2021,1107034.0,hosting provider,cyber attack
+78,2007,8637405.0,retail,inside job
+79,2008,8000000.0,financial,cyber attack
+81,2021,500000.0,health,security failure
+84,2016,30000.0,government,security failure
+85,2019,9700000.0,financial,inside job
+86,2014,600000.0,technology,cyber attack
+87,2019,4900000.0,technology,cyber attack
+88,2007,3000000.0,government,lost / stolen media
+89,2012,68648009.0,technology,cyber attack
+90,2013,1000000.0,technology,cyber attack
+91,2005,1400000.0,retail,cyber attack
+92,2018,162000000.0,messaging app,cyber attack
+93,2013,1000000.0,technology,cyber attack
+95,2014,145000000.0,technology,cyber attack
+96,2018-2019,2000000.0,restaurant,cyber attack
+97,2010,3300000.0,financial,lost / stolen media
+98,2011,514330.0,healthcare,lost / stolen computer
+99,2019,108000000.0,technology,security failure
+100,2010,251000.0,government,inside job
+101,2010,180111.0,healthcare,lost / stolen media
+102,2012,315000.0,healthcare,security failure
+103,2017,163119000.0,"financial, credit reporting",security failure
+105,2013,50000000.0,technology,cyber attack
+106,2018,340000000.0,data broker,security failure
+107,2015,10000000.0,healthcare,cyber attack
+108,2015,15000000.0,telecoms,cyber attack
+110,2013,6000000.0,social media,accidentally published
+111,2018,50000000.0,social media,security failure
+112,2019,540000000.0,social media,security failure
+113,2019,1500000.0,social media,accidentally uploaded
+114,2019,267000000.0,social media,security failure
+115,2019,461091.0,retail,cyber attack
+116,2010,400000.0,financial,cyber attack
+117,2007,8500000.0,financial,inside job
+118,2019,885000000.0,financial service company,security failure
+120,2013,100000.0,government,lost / stolen computer
+121,2016,412214295.0,technology,poor security / hacked
+122,2016,2500000.0,technology,cyber attack
+123,2012,420000.0,technology,accidentally published
+124,2020,201000000.0,personal and demographic data about residents and their properties of US,Poor security
+125,2012,8000000.0,technology,cyber attack
+126,2007,800000.0,retail,lost / stolen computer
+127,2010,1500000.0,technology,cyber attack
+128,2012,7000000.0,financial,cyber attack
+129,2014,5000000.0,technology,cyber attack
+130,2018,500000.0,social media,security failure
+131,2012,9000000.0,government,cyber attack
+132,2017,25000.0,healthcare,cyber attack
+133,2008,11100000.0,energy,inside job
+135,2007,4200000.0,retail,cyber attack
+136,2018,28517244.0,retail,cyber attack
+137,2009,500000.0,healthcare,lost / stolen media
+138,2011,1900000.0,healthcare,lost / stolen media
+139,2019,808000.0,healthcare,security failure
+141,2009,130000000.0,financial,cyber attack
+143,2006,200000.0,"tech, retail",lost / stolen media
+144,2014 and 2015,363000.0,hotel,cyber attack
+145,2014,56000000.0,retail,cyber attack
+146,2011,283000.0,retail,security failure
+148,2022,1300000.0,energy,security failure
+149,2020,200000000.0,social media,security failure
+150,2015,720000.0,financial,cyber attack
+151,2022,515000.0,humanitarian,unknown
+152,2016,6700.0,healthcare,inside job
+153,2012,3000000.0,financial,cyber attack
+154,2015,1250000.0,special public corporation,cyber attack
+155,2004,510000.0,shopping,inside job
+156,2008,1600000.0,government,accidentally published
+157,2010,2600000.0,financial,lost / stolen media
+158,2014,76000000.0,financial,cyber attack
+159,2019,100000000.0,local search,unprotected api
+160,2006,4000000.0,telecoms,cyber attack
+161,2013,125000.0,academic,cyber attack
+162,2016,1500000.0,technology,cyber attack
+164,2014,20000000.0,financial,inside job
+165,2013,1000000.0,technology,cyber attack
+166,2012,8700000.0,telecoms,cyber attack
+167,2014,1000000.0,technology,cyber attack
+169,2020,380000.0,publisher (magazine),unknown
+170,2019,15000000.0,healthcare,cyber attack
+171,2010,130495.0,healthcare,lost / stolen media
+172,2012,8000000.0,technology,accidentally published
+173,2013,50000000.0,technology,cyber attack
+174,2014,860000.0,technology,cyber attack
+176,2018,500000000.0,hotel,cyber attack
+177,2020,5200000.0,hotel,poor security/inside job
+178,2011,210000.0,government,security failure
+179,2012,160000000.0,financial,cyber attack
+180,2012,780000.0,"government, healthcare",cyber attack
+181,2015,3900000.0,healthcare,cyber attack
+182,2011,102153.0,healthcare,lost / stolen media
+183,2014,3000000.0,retail,cyber attack
+184,2019,250000000.0,technology,data exposed by misconfiguration
+186,2012,163792.0,"web, military",accidentally published
+187,2008,6000000.0,government,accidentally published
+188,2019,14200.0,healthcare,poor security/inside job
+189,2006,960000.0,financial,intentionally lost
+190,2019,202000000.0,technology,security failure
+191,2019,275000000.0,technology,security failure
+192,2019,100000000.0,telecommunications,misconfiguration/poor security
+193,2007,1600000.0,technology,cyber attack
+194,2011,34000.0,financial,lost / stolen media
+195,2022,1648922.0,online shopping,ransomware hacked
+196,2014,76000.0,technology,security failure
+197,2018,92283889.0,genealogy,unknown
+200,2021,1600000.0,healthcare,cyber attack
+201,2014,1100000.0,retail,cyber attack
+202,2011,1055489.0,healthcare,lost / stolen media
+203,2009,573000.0,technology,cyber attack
+204,2010,1700000.0,healthcare,lost / stolen media
+205,2012,1800000.0,energy,inside job
+206,2014,52000.0,transport,security failure
+207,2011,13200000.0,technology,cyber attack
+208,2011,8300000.0,healthcare,lost / stolen media
+209,2013,240000.0,gaming,cyber attack
+210,2020,160000.0,gaming,cyber attack
+211,2016,430000.0,media,cyber attack
+212,2016,1500000.0,gaming,cyber attack
+213,2008,3950000.0,government,accidentally published
+214,2020,30000.0,financial,rogue contractor
+216,2015,21500000.0,government,cyber attack
+217,2012,6500000.0,government,accidentally published
+218,2010,760000.0,academic,cyber attack
+219,2018,880000.0,technology,cyber attack
+222,2015,2300000.0,technology,cyber attack
+223,2020,20076016.0,QR code payment,"improper setting, hacked"
+224,2018,123857.0,fashion,cyber attack
+225,2015,11000000.0,healthcare,cyber attack
+226,2010,515000.0,healthcare,cyber attack
+227,2019,11900000.0,Clinical Laboratory,security failure
+228,2018,100000000.0,Question & Answer,cyber attack
+229,2020,1381735.0,technology,"improper setting, hacked"
+230,2012,98167935.0,technology,cyber attack
+231,2008,1500000.0,financial,cyber attack
+233,2011,200000.0,retail,cyber attack
+234,2009,32000000.0,"web, gaming",cyber attack
+236,2015,680000.0,government,inside job
+237,2011,180000.0,government,cyber attack
+238,2015,4600000.0,financial,cyber attack
+239,2013,500000.0,technology,cyber attack
+240,2010,231400.0,healthcare,cyber attack
+241,2011,1290755.0,gaming,cyber attack
+242,2008,50500.0,government,lost / stolen media
+244,2018,1500000.0,"government, database",cyber attack
+245,2015,500000.0,technology,security failure
+246,2020,377428.0,phone accessories,security failure
+247,2013,4700000.0,technology,cyber attack
+249,2011,24600000.0,gaming,cyber attack
+250,2011,1000000.0,technology,cyber attack
+252,2011,77000000.0,gaming,cyber attack
+253,2013,16000.0,government,cyber attack
+254,2012,6400000.0,healthcare,inside job
+255,2010,800000.0,healthcare,lost / stolen media
+256,2011,300000.0,healthcare,cyber attack
+257,2011,400000.0,healthcare,lost / stolen computer
+258,2008,72000.0,academic,lost / stolen computer
+259,2008,97000.0,retail,lost / stolen computer
+261,2011,3500000.0,government,accidentally published
+262,2011,35000000.0,technology,cyber attack
+263,2019,6800000.0,retail,cyber attack
+264,2011,935000.0,military,accidentally published
+266,2011,4243434.0,healthcare,lost / stolen computer
+267,2012,2434899.0,government,cyber attack
+268,2016,20000000.0,retail,cyber attack
+269,2017,28722877.0,technology,cyber attack
+270,2013,110000000.0,retail,cyber attack
+271,2016,8800.0,technology,cyber attack
+272,2007,6300000.0,financial,cyber attack
+273,2012,260000.0,financial,cyber attack
+274,2013,170000.0,telecoms,accidentally published
+275,2020,120000000.0,market analysis,security failure
+276,2007,89000.0,government,inside job
+277,2018,26151608.0,ticket distribution,cyber attack
+278,2011,28000000.0,technology,cyber attack
+279,2020,42000000.0,social media,security failure
+280,2007,94000000.0,retail,cyber attack
+281,2006,17000000.0,telecoms,lost / stolen media
+282,2021,45000000.0,telecom,cyber attack
+283,2011,4901432.0,"military, healthcare",lost / stolen computer
+284,2010,398000.0,healthcare,lost / stolen media
+285,2019,299055000.0,Telephone directory,unknown
+287,2013,65469298.0,technology,cyber attack
+290,2013,250000.0,technology,cyber attack
+292,2014,50000.0,technology,security failure
+293,2017,57000000.0,transport,cyber attack
+295,2013,2000000.0,technology,cyber attack
+296,2015,4500000.0,healthcare,cyber attack
+297,2008,84000.0,government,lost / stolen media
+298,2008,1700000.0,government,lost / stolen media
+299,2007,25000000.0,government,lost / stolen media
+300,2019,1164540.0,academic,cyber attack
+301,2018,150000000.0,Consumer Goods,cyber attack
+302,2009,160000.0,academic,cyber attack
+303,2016,80000.0,academic,cyber attack
+304,2014,300000.0,academic,cyber attack
+305,2016,63000.0,academic,cyber attack
+306,2008,2100000.0,academic,lost / stolen computer
+307,2008,2200000.0,academic,lost / stolen media
+308,2011,73000.0,academic,cyber attack
+309,2018,60000000.0,government,security failure
+311,2011,50000.0,military,accidentally published
+312,2010,392000.0,government,inside job
+313,2009,72000.0,military,lost / stolen media
+314,2006,26500000.0,"government, military",lost / stolen computer
+316,2011,123461.0,government,accidentally published
+317,2009,76000000.0,military,lost / stolen media
+318,2010,260000.0,military,inside job
+319,2009,131000.0,military,lost / stolen computer
+320,2020,130000.0,healthcare,cyber attack
+321,2016,1500000.0,telecoms,cyber attack
+322,2020,38000000.0,online marketing,publicly accessible Amazon Web Services (AWS) server
+323,2020,900000.0,mobile carrier,accidentally exposed
+324,2009,8257378.0,"government, healthcare",cyber attack
+325,2009,531400.0,healthcare,cyber attack
+326,2013,2000000.0,telecoms,inside job
+327,2015,5000000.0,retail,cyber attack
+328,2015,1300000.0,retail,cyber attack
+329,2011,1270000.0,media,cyber attack
+330,2013,160000.0,government,cyber attack
+331,2020,270000000.0,technology,cyber attack
+332,2020,30000000.0,retail,cyber attack
+333,2016,43430316.0,technology,cyber attack
+335,2019,98000.0,financial,cyber attack
+338,2011,62000.0,technology,cyber attack
+339,2015,6054459.0,technology,social engineering
+340,2013,3000000000.0,technology,cyber attack
+341,2014,500000000.0,technology,cyber attack
+342,2013,22000000.0,"tech, web",cyber attack
+343,2012,450000.0,technology,cyber attack
+344,2010,43000.0,academic,accidentally published
+345,2020,4000000.0,social media,security failure
+346,2012,24000000.0,technology,cyber attack
+347,2019,173000000.0,social media,cyber attack
+348,2020,200000000.0,financial,accidentally published
+349,2020,391250.0,healthcare,security failure
+350,2022,6400000.0,various,security failure
+351,2022,95000.0,retail,accidentally published
