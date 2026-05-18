@@ -37,7 +37,7 @@ Analisar o panorama histórico de violações de dados para identificar quais se
 - [x] Configuração do Poetry
 - [x] Criação do ambiente virtual
 - [x] Organização da arquitetura ETL
-- [x] Configuração do pandas
+    - [x] Configuração do pandas
 
 ## Tratamentos
 
@@ -67,8 +67,8 @@ poetry run python -m src.projeto_integrador.main
 - [ ] Criar visualizações
 
 ## Dashboard
-- Média: média de quantidade vazada por evento
-- Gráfico de pizza: dos tipos de organização 
-- Gráfico de linha: frequência de vazamentos ao longo tempo
-- Gráfico de barra vertical/horizontal: os 10 metódos que possuem um volume maior de vazamentos
+- Média: média de quantidade vazada por evento 
+- Gráfico de pizza: dos tipos de organização ✅
+- Gráfico de linha: frequência de vazamentos ao longo dos anos ✅
+- Gráfico de barra vertical/horizontal: os 5 metódos que possuem um volume maior de vazamentos ✅
 - Heatmap: verificar as correlações

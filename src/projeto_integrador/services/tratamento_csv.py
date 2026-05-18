@@ -35,6 +35,12 @@ def executar_pipeline():
     "poor security": "security failure"
     })
 
+
+    df['Year'] = df['Year'].astype(str).str.strip()
+    df = df[df['Year'].str.match(r'^\d{4}$')]
+    df['Year'] = df['Year'].astype(int)
+
+
 # =========================================================
 # VALIDAÇÃO DA PADRONIZAÇÃO DE CATEGORIAS
 # =========================================================
