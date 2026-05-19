@@ -67,8 +67,8 @@ poetry run python -m src.projeto_integrador.main
 - [ ] Criar visualizações
 
 ## Dashboard
-- Média: média de quantidade vazada por evento 
+- Média: média de quantidade vazada por evento ✅
 - Gráfico de pizza: dos tipos de organização ✅
 - Gráfico de linha: frequência de vazamentos ao longo dos anos ✅
 - Gráfico de barra vertical/horizontal: os 5 metódos que possuem um volume maior de vazamentos ✅
-- Heatmap: verificar as correlações
+- Heatmap: verificar as correlações ✅
