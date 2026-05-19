@@ -23,6 +23,7 @@ Analisar o panorama histórico de violações de dados para identificar quais se
 - Planejamento do dashboard - Luan e Luanda
 - Tratamento e carregamento de dados base para dashboard - Marcio
 - Criação do dashboard - Gabriel e Lucas
+- Publicação dashboard - Luanda e Luan
 
 ## Cronograma geral
 - Escolha da base de dados e objetivos - 03/março
@@ -33,6 +34,7 @@ Analisar o panorama histórico de violações de dados para identificar quais se
 - Entrega da primeira parte do projeto - 22/março
 - Tratamentos - 15/março
 - Dashboard - 17/março
+- Publicação Streamlit - 18/março
 
 ## Status do Projeto
 
@@ -67,7 +69,7 @@ poetry run python -m src.projeto_integrador.main
 
 - [x] Finalizar tratamento dos dados
 - [x] Validar dados tratados
-- [ ] Integrar pipeline ao Streamlit
+- [x] Integrar pipeline ao Streamlit
 - [x] Criar visualizações
 
 ## Dashboard
