@@ -1,6 +1,6 @@
-import streamlit as st
+import streamlit as st # type: ignore
 import pandas as pd
-import matplotlib.pyplot as plt
+import matplotlib.pyplot as plt # type: ignore
 
 from components.kpi_media import render_kpi_media
 from components.heatmap import render_heatmap
